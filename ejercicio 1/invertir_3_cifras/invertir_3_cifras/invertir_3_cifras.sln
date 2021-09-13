@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invertir_3_cifras", "invertir_3_cifras\invertir_3_cifras.csproj", "{29459CA7-0B26-4092-BB54-9876015CCCB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29459CA7-0B26-4092-BB54-9876015CCCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29459CA7-0B26-4092-BB54-9876015CCCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29459CA7-0B26-4092-BB54-9876015CCCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29459CA7-0B26-4092-BB54-9876015CCCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A76658-3BCF-4768-BDC7-4A0CF3852B37}
+	EndGlobalSection
+EndGlobal
